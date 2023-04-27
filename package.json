@@ -1,0 +1,22 @@
+{
+  "name": "akh_npm_test-package",
+  "version": "1.0.0",
+  "description": "this is testing only",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aungkohein-coder/akh_npm_test-package.git"
+  },
+  "keywords": [
+    "akh_npm_test-package"
+  ],
+  "author": "Aung Ko Hein",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aungkohein-coder/akh_npm_test-package/issues"
+  },
+  "homepage": "https://github.com/aungkohein-coder/akh_npm_test-package#readme"
+}
